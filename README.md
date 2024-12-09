@@ -15,4 +15,4 @@ Process looks like:
 
 3) If we identify a country with an increasing number of reports, we try to find a preceding rise in reports on corresponding syndromes.
 For example, here we can see a spike in the reports of unknown pneumonia cases in China in November 2023 before the COVID outbreak was identified.
-![Covid in china](Dashboard_3.jpg)
+![Covid in china](images/Dashboard_3.jpg)
